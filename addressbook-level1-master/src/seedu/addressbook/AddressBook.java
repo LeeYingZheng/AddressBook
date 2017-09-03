@@ -607,7 +607,7 @@ public class AddressBook {
         return updatePersonContacts(updateType, updatedVar, actualName, persontoUpdate);
     }
 
-    //add a test comment. Commit to github
+   //check branch
 
     private static String updatePersonContacts(String updateType, String updatedVar, String actualName, String[] persontoUpdate) {
 
