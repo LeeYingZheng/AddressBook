@@ -607,7 +607,7 @@ public class AddressBook {
         return updatePersonContacts(updateType, updatedVar, actualName, persontoUpdate);
     }
 
-   //check branch
+   //testing 2
 
     private static String updatePersonContacts(String updateType, String updatedVar, String actualName, String[] persontoUpdate) {
 
