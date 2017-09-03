@@ -1,0 +1,5 @@
+Command: || [add Valid Name p/12345 valid@email.butNoPrefix]
+Invalid command format: add 
+
+Command: || [add Valid Name 12345 e/valid@email.butPhonePrefixMissing]
+Invalid command format: add 
